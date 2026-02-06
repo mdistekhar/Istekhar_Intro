@@ -35,6 +35,10 @@ I'm a  DevOps Engineering** from 🇮🇳 India, with **1+ years** of profession
 
 </p>
 
+
+
+
+
 ### **Cloud & DevOps**
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
@@ -56,6 +60,10 @@ I'm a  DevOps Engineering** from 🇮🇳 India, with **1+ years** of profession
   <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg" alt="elasticsearch" width="40" height="40"/>
 </p>
+
+
+
+
 
 ---
 
@@ -86,6 +94,10 @@ I'm a  DevOps Engineering** from 🇮🇳 India, with **1+ years** of profession
 
 ---
 
+
+
+
+
 ## 🌐 Connect With Me
 
 <div align="center">
@@ -96,6 +108,10 @@ I'm a  DevOps Engineering** from 🇮🇳 India, with **1+ years** of profession
 </div>
 
 ---
+
+
+
+
 
 
 
